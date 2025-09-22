@@ -1518,7 +1518,7 @@
             "E": "Tất cả các đáp án",
             "F": "A,B,C"
         },
-        "correct": "A,B,C"
+        "correct": "F"
     },
     {
         "id": 118,
@@ -1687,7 +1687,7 @@
             "E": "Thích ứng",
             "F": "B, D"
         },
-        "correct": "B, D"
+        "correct": "F"
     },
     {
         "id": 131,
@@ -1817,7 +1817,7 @@
             "E": "Thích ứng",
             "F": "C,D"
         },
-        "correct": "C,D"
+        "correct": "F"
     },
     {
         "id": 141,
@@ -1830,7 +1830,7 @@
             "E": "Thích ứng",
             "F": "B,C,E"
         },
-        "correct": "B,C,E"
+        "correct": "F"
     },
     {
         "id": 142,
@@ -1854,9 +1854,9 @@
             "C": "Tận tâm",
             "D": "Thấu cảm",
             "E": "Thích ứng",
-            "F": "A,B,E"
+            "F": "B,C"
         },
-        "correct": "B,C"
+        "correct": "F"
     },
     {
         "id": 144,
@@ -1932,7 +1932,7 @@
             "C": "\tTuyệt đối không chia sẻ quan điểm, không bày tỏ chính kiến hay góp ý để tránh ảnh hưởng mối quan hệ đồng nghiệp.",
             "D": "\tTôn trọng, đặt mình vào vị trí, hoàn cảnh của người khác để hiểu được nhu cầu, mong muốn của đối tượng giao tiếp.",
             "E": "",
-            "F": "B;D"
+            "F": ""
         },
         "correct": "C"
     },
@@ -1945,7 +1945,7 @@
             "C": "Báo Chi nhánh thông cảm chờ và chủ động liên hệ phòng A để trao đổi, làm rõ/thống nhất nội dung trả lời, Sau đó nếu vẫn thuộc phạm vi trả lời phòng A, báo phòng A hỗ trợ Chi nhánh và thông tin lại cho Chi nhánh đã hỗ trợ trao đổi.",
             "D": "",
             "E": "",
-            "F": "A;D"
+            "F": ""
         },
         "correct": "C"
     },
@@ -1984,9 +1984,9 @@
             "C": "Tham gia góp ý kiến tích cực vào việc hoàn thiện cơ chế, chính sách liên quan đến hoạt động ngân hàng",
             "D": "Nói chuyện ồn ào tại nơi công cộng",
             "E": "Chấp hành nghiêm chỉnh quy định các quy định, nề nếp của địa phương nơi CBNV sinh sống",
-            "F": "C,E"
+            "F": "A,B,E"
         },
-        "correct": "A,B,E"
+        "correct": "F"
     },
     {
         "id": 154,
@@ -1997,9 +1997,9 @@
             "C": "Thực hiện các giao dịch, tư vấn cho khách hàng nhanh chóng, chính xác.",
             "D": "Bảo vệ, bảo mật thông tin, tài sản khách hàng (ngoại trừ trường hợp có yêu cầu của cơ quan/tổ chức/cá nhân có thẩm quyền theo quy định của Pháp luật).",
             "E": "Cắt ngang lời khi khách hàng nói. Tranh luận với khách hàng hoặc đổ lỗi do các nguyên nhân khách quan khi khách hàng phàn nàn về SPDV.",
-            "F": ""
+            "F": "A,C,D"
         },
-        "correct": "A,C,D"
+        "correct": "F"
     },
     {
         "id": 155,
@@ -2036,9 +2036,9 @@
             "C": "Thực hiện các giao dịch, tư vấn cho khách hàng nhanh chóng, chính xác",
             "D": "Sử dụng từ ngữ, ngôn ngữ khiến khách hàng khó chịu như: “không thể”, “không được”, “không biết”, “KH sai”…",
             "E": "Sử dụng kính ngữ và ngôn ngữ dễ hiểu khi giao tiếp với khách hàng",
-            "F": ""
+            "F": "A,D"
         },
-        "correct": "A,D"
+        "correct": "F"
     },
     {
         "id": 158,
@@ -2049,7 +2049,7 @@
             "C": "Giới thiệu người có địa vị cao trước, địa vị thấp sau",
             "D": "Trường hợp cần phải cho đối tác biết trách nhiệm của mình, giới thiệu chức vụ hiện đang đảm nhiệm hoặc vai trò được ủy nhiệm để làm việc với đối tác",
             "E": "Tất cả các đáp án trên đều đúng",
-            "F": ""
+            "F": "A,B,C"
         },
         "correct": "E"
     },
@@ -2062,7 +2062,7 @@
             "C": "Tỏ thái độ tôn trọng với Cán bộ đã nghỉ hưu",
             "D": "",
             "E": "",
-            "F": ""
+            "F": "C,E"
         },
         "correct": "C"
     },
@@ -2075,7 +2075,7 @@
             "C": "\tBáo cáo xin ý kiến lãnh đạo đối với những thông tin quan trọng, cần xin ý kiến chỉ đạo",
             "D": "Tất cả các đáp án trên",
             "E": "",
-            "F": ""
+            "F": "B,C"
         },
         "correct": "D"
     },
@@ -2101,9 +2101,9 @@
             "C": "Trên xe: không cười, nói to gây ồn ào",
             "D": "Không có đáp án nào đúng",
             "E": "",
-            "F": ""
+            "F": "A,B,C"
         },
-        "correct": "A,B,C"
+        "correct": "F"
     },
     {
         "id": 163,
@@ -2114,7 +2114,7 @@
             "C": "Cố ý bao che, phớt lờ hành vi vi phạm đó vì không muốn mất lòng đồng nghiệp",
             "D": "Câu A và B đều đúng",
             "E": "",
-            "F": ""
+            "F": "A,B"
         },
         "correct": "D"
     },
@@ -2127,7 +2127,7 @@
             "C": "Hỗ trợ, đồng hành cùng cấp dưới giải quyết khó khăn, vướng mắc trong quá trình thực hiện nhiệm vụ;",
             "D": "Phán xét, đánh giá cấp dưới khi chưa có đầy đủ thông tin chính thức hoặc dựa trên quan điểm, định kiến cá nhân, không có cơ sở khách quan",
             "E": "",
-            "F": ""
+            "F": "C,E"
         },
         "correct": "C"
     },
@@ -2166,9 +2166,9 @@
             "C": "Tận tâm",
             "D": "Thấu cảm",
             "E": "Thích ứng",
-            "F": ""
+            "F": "C,E"
         },
-        "correct": "C,E"
+        "correct": "F"
     },
     {
         "id": 168,
@@ -2179,9 +2179,9 @@
             "C": "Tận tâm",
             "D": "Thấu cảm ",
             "E": "Thích ứng",
-            "F": ""
+            "F": "B,C"
         },
-        "correct": "B,C"
+        "correct": "F"
     },
     {
         "id": 169,
@@ -2205,9 +2205,9 @@
             "C": "Tôn trọng và hợp tác với cơ quan truyền thông khi được yêu cầu trong phạm vi quyền hạn và trách nhiệm cá nhân theo quy định VietinBank.",
             "D": "Không kịp thời ứng phó với các sự cố rủi ro ngay cả khi các đơn vị gặp sự cố đã báo cáo.",
             "E": "Chủ động, kịp thời liên hệ với Đại diện truyền thông chính thức của VietinBank đề xuất đính chính, xác minh khi phát hiện thông tin tiêu cực, bất lợi, sai lệch về VietinBank trên các phương tiện truyền thông (báo chí/mạng xã hội...).",
-            "F": ""
+            "F": "B;D"
         },
-        "correct": "B;D"
+        "correct": "F"
     },
     {
         "id": 171,
@@ -2296,9 +2296,9 @@
             "C": "Chê bai ý tưởng vì cho rằng chương trình mới là không phù hợp và thiếu khả thi",
             "D": "Tạo điều kiện, cơ hội cho cán bộ phát huy khả năng và thực hiện thành công ý tưởng đó.",
             "E": "",
-            "F": ""
+            "F": "A;D"
         },
-        "correct": "A;D"
+        "correct": "F"
     },
     {
         "id": 178,
@@ -2387,9 +2387,9 @@
             "C": "\tTiết lộ thông tin chia sẻ của đối tác cho một bên thứ ba khi chưa được sự đồng ý, chấp thuận của đối tác\n",
             "D": "",
             "E": "",
-            "F": ""
+            "F": "A,B"
         },
-        "correct": "A,B"
+        "correct": "F"
     },
     {
         "id": 185,
@@ -2400,9 +2400,9 @@
             "C": "Ứng xử với cấp trên ",
             "D": "Ứng xử giữa các đơn vị, cá nhân trong quá trình phối hợp.",
             "E": "Không có đáp án đúng",
-            "F": ""
+            "F": "C,D"
         },
-        "correct": "C,D"
+        "correct": "F"
     },
     {
         "id": 186,
@@ -2543,9 +2543,9 @@
             "C": "Anh X trao đổi riêng với bạn Y cũng như các đồng nghiệp khác để tìm hiểu nguyên nhân, sau đó có các biện pháp để hỗ trợ, đồng hành cùng bạn Y trong việc giao tiếp, phối hợp xử lý công việc với đồng nghiệp. ",
             "D": "Anh X mặc kệ miễn là hiệu quả công việc vẫn đạt",
             "E": "Anh X giao việc theo nhóm để thúc đấy sự phối hợp giữa các đồng nghiệp với nhau",
-            "F": ""
+            "F": "C,E"
         },
-        "correct": "C,E"
+        "correct": "F"
     },
     {
         "id": 197,
