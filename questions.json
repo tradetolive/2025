@@ -1516,7 +1516,7 @@
             "C": "Là cơ sở để quản lý, đánh giá hiệu quả thực thi và tạo động lực để các đơn vị phát triển, lan tỏa các giá trị văn hóa tại VietinBank",
             "D": "Giúp cho CBNV thấm nhuần các giá trị VHDN VietinBank",
             "E": "Tất cả các đáp án",
-            "F": ""
+            "F": "A,B,C"
         },
         "correct": "A,B,C"
     },
@@ -1685,7 +1685,7 @@
             "C": "Tận tâm",
             "D": "Thấu cảm",
             "E": "Thích ứng",
-            "F": ""
+            "F": "B, D"
         },
         "correct": "B, D"
     },
@@ -1815,7 +1815,7 @@
             "C": "Tận tâm",
             "D": "Thấu cảm",
             "E": "Thích ứng",
-            "F": ""
+            "F": "C,D"
         },
         "correct": "C,D"
     },
@@ -1828,7 +1828,7 @@
             "C": "Tận tâm",
             "D": "Thấu cảm",
             "E": "Thích ứng",
-            "F": ""
+            "F": "B,C,E"
         },
         "correct": "B,C,E"
     },
@@ -1841,7 +1841,7 @@
             "C": "An toàn – Hiệu quả - Dài hạn",
             "D": "",
             "E": "",
-            "F": ""
+            "F": "B,C"
         },
         "correct": "B"
     },
@@ -1854,7 +1854,7 @@
             "C": "Tận tâm",
             "D": "Thấu cảm",
             "E": "Thích ứng",
-            "F": ""
+            "F": "A,B,E"
         },
         "correct": "B,C"
     },
@@ -1867,7 +1867,7 @@
             "C": "Đổi mới sáng tạo",
             "D": "",
             "E": "",
-            "F": ""
+            "F": "A,C,D"
         },
         "correct": "C"
     },
@@ -1880,7 +1880,7 @@
             "C": "Tận Tâm\n",
             "D": "A & B  \n",
             "E": "",
-            "F": ""
+            "F": "A,D"
         },
         "correct": "D"
     },
@@ -1893,7 +1893,7 @@
             "C": "Chính Trực",
             "D": "Minh bạch",
             "E": "Thẳng thắn",
-            "F": ""
+            "F": "A,B,C"
         },
         "correct": "C"
     },
@@ -1906,7 +1906,7 @@
             "C": "Cả 2 phương án trên ",
             "D": "",
             "E": "",
-            "F": ""
+            "F": "C,E"
         },
         "correct": "A"
     },
@@ -1919,7 +1919,7 @@
             "C": " Thiếu ý thức, trách nhiệm bảo vệ môi trường (vứt rác bừa bãi; nói tục, nói bậy, nói chuyện ồn ào tại nơi công cộng, tại công sở hoặc vi phạm quy tắc ứng xử trên mạng xã hội của VietinBank....);",
             "D": " Phân biệt đối xử (chê bai, chế giễu, miệt thị…) hoặc từ chối giúp đỡ các trường hợp yếu thế trong xã hội.",
             "E": "Tất cả các đáp án trên",
-            "F": ""
+            "F": "B,C"
         },
         "correct": "E"
     },
@@ -1932,7 +1932,7 @@
             "C": "\tTuyệt đối không chia sẻ quan điểm, không bày tỏ chính kiến hay góp ý để tránh ảnh hưởng mối quan hệ đồng nghiệp.",
             "D": "\tTôn trọng, đặt mình vào vị trí, hoàn cảnh của người khác để hiểu được nhu cầu, mong muốn của đối tượng giao tiếp.",
             "E": "",
-            "F": ""
+            "F": "B;D"
         },
         "correct": "C"
     },
@@ -1945,7 +1945,7 @@
             "C": "Báo Chi nhánh thông cảm chờ và chủ động liên hệ phòng A để trao đổi, làm rõ/thống nhất nội dung trả lời, Sau đó nếu vẫn thuộc phạm vi trả lời phòng A, báo phòng A hỗ trợ Chi nhánh và thông tin lại cho Chi nhánh đã hỗ trợ trao đổi.",
             "D": "",
             "E": "",
-            "F": ""
+            "F": "A;D"
         },
         "correct": "C"
     },
@@ -1958,7 +1958,7 @@
             "C": "GDV làm đúng theo quy định về mua bán ngoại tệ",
             "D": "",
             "E": "",
-            "F": ""
+            "F": "A,B"
         },
         "correct": "B"
     },
@@ -1971,7 +1971,7 @@
             "C": "Phê bình Hà trong cuộc họp vì không tích cực học hỏi, nghiên cứu",
             "D": "Nói xấu Hà với đồng nghiệp khác trong phòng ",
             "E": "Gặp Lãnh đạo phòng xin đổi cho người khác hướng dẫn Hà",
-            "F": ""
+            "F": "C,D"
         },
         "correct": "A"
     },
@@ -1984,7 +1984,7 @@
             "C": "Tham gia góp ý kiến tích cực vào việc hoàn thiện cơ chế, chính sách liên quan đến hoạt động ngân hàng",
             "D": "Nói chuyện ồn ào tại nơi công cộng",
             "E": "Chấp hành nghiêm chỉnh quy định các quy định, nề nếp của địa phương nơi CBNV sinh sống",
-            "F": ""
+            "F": "C,E"
         },
         "correct": "A,B,E"
     },
