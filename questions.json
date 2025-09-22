@@ -7,7 +7,8 @@
             "B": "Năm 2021",
             "C": "Năm 2022",
             "D": "Năm 2023",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -19,7 +20,8 @@
             "B": "Hướng tới hiệu quả thay vì kết quả",
             "C": " Hướng tới dài hạn thay vì ngắn hạn",
             "D": "Tập trung ngay vào củng cố các trụ cột yếu kém",
-            "E": "Duy trì truyền thống và Tiếp biến văn hóa theo “hơi thở” thời đại"
+            "E": "Duy trì truyền thống và Tiếp biến văn hóa theo “hơi thở” thời đại",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "F"
     },
@@ -31,7 +33,8 @@
             "B": "(i)Tiên phong; (ii) Tốt nhất",
             "C": "(i)Tiên phong; (ii) Tối ưu",
             "D": "(i)Tiên phong; (ii) Hoàn hảo",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -43,7 +46,8 @@
             "B": "Đa năng, hiện đại, hiệu quả",
             "C": "Tốt nhất, uy tín nhất, quy mô",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -55,7 +59,8 @@
             "B": "Phát triển con người",
             "C": "Đổi mới sáng tạo",
             "D": "An toàn, hiệu quả, bền vững",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -67,7 +72,8 @@
             "B": "Sứ mệnh",
             "C": "Triết lý hoạt động",
             "D": "Tính cách thương hiệu",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -79,7 +85,8 @@
             "B": "Hội đồng quản trị",
             "C": "Ban Điều hành",
             "D": "Hạt nhân văn hóa",
-            "E": "Toàn thể CBNV"
+            "E": "Toàn thể CBNV",
+            "F": ""
         },
         "correct": "E"
     },
@@ -91,7 +98,8 @@
             "B": "Quy định",
             "C": "Quy trình",
             "D": "Công văn hướng dẫn",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -103,7 +111,8 @@
             "B": "Thực hiện nghiêm túc các cam kết",
             "C": "Tránh xung đột lợi ích",
             "D": "Khách quan trong mọi tình huống",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -115,7 +124,8 @@
             "B": "Trí tuệ",
             "C": "Thấu cảm",
             "D": "Thích ứng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -127,7 +137,8 @@
             "B": "Sai",
             "C": "",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -139,7 +150,8 @@
             "B": "thử nghiệm",
             "C": "kiến tạo",
             "D": "thực hành",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -151,7 +163,8 @@
             "B": "Kêu gọi nhân viên quyên góp ủng hộ trẻ em nghèo",
             "C": "Yêu cầu nhân viên tuân thủ đúng SLA về các nghiệp vụ",
             "D": "Cam kết tăng trưởng chỉ tiêu doanh thu mỗi tháng thêm 5% so với kế hoạch",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -163,7 +176,8 @@
             "B": "cốt lõi",
             "C": "nội lực",
             "D": "quan trọng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -175,7 +189,8 @@
             "B": "thường xuyên",
             "C": "liên tục",
             "D": "linh hoạt",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -187,7 +202,8 @@
             "B": "Trao tặng những phần quà cho các gia đình trong thành phố bị ảnh hưởng bởi lũ lụt",
             "C": "Nghiêm túc tuân thủ các quy định về thời gian giao dịch của Ngân hàng Công thương.",
             "D": "Cả 3 hành động đều đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -199,7 +215,8 @@
             "B": "Tận tâm",
             "C": "Thấu cảm",
             "D": "Chính trực",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -211,7 +228,8 @@
             "B": "Sai",
             "C": "",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -223,7 +241,8 @@
             "B": "(ii) & (iii)",
             "C": "(i) & (iv)",
             "D": "(iii) & (iv)",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -235,7 +254,8 @@
             "B": "(i) & (iv)",
             "C": "(ii) & (iii)",
             "D": "(iii) & (iv)",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -247,7 +267,8 @@
             "B": "Lấy khách hàng làm trung tâm",
             "C": "Phát triển và trọng dụng nhân tài và Cởi mở, học tập, sáng tạo",
             "D": "Hợp tác tốt, vận hành trơn tru",
-            "E": "Năng suất cao, hiệu quả cao"
+            "E": "Năng suất cao, hiệu quả cao",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "F"
     },
@@ -259,7 +280,8 @@
             "B": "Chịu trách nhiệm phát triển Văn hóa doanh nghiệp tại đơn vị",
             "C": "Là hình mẫu trong việc thực hành văn hóa doanh nghiệp",
             "D": "Lan tỏa văn hóa doanh nghiệp VietinBank tại đơn vị và cộng đồng",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "E"
     },
@@ -271,7 +293,8 @@
             "B": "Phỏng vấn tuyển dụng",
             "C": "Khảo sát 360, Phỏng vấn đánh giá thăng tiến đối với cấp quản lý, lãnh đạo",
             "D": "Khen thưởng",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "E"
     },
@@ -283,7 +306,8 @@
             "B": "Trí truệ",
             "C": "Thấu cảm",
             "D": "Chính trực",
-            "E": "A và B"
+            "E": "A và B",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -295,7 +319,8 @@
             "B": "Tư vấn cho khách hàng sử dụng ALIAS để chuyển khoản cho con được thuận tiện",
             "C": "Chủ động trao đổi với khách hàng để hỏi thăm về các khó khăn khác có thể gặp phải",
             "D": "Tất cả các đáp án trên",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -307,7 +332,8 @@
             "B": "Khách quan, toàn diện",
             "C": "Công bằng, bình đẳng",
             "D": "Tất cả các đáp án trên",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -319,7 +345,8 @@
             "B": "Truyền tải thông tin trung thực, minh bạch, khách quan vì lợi ích khách hàng",
             "C": "Mang lại trải nghiệm tuyệt vời, những sản phẩm dịch vụ xuất sắc",
             "D": "Mang lại những giá trị mới tối ưu cho khách hàng",
-            "E": "A,B và D"
+            "E": "A,B và D",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "F"
     },
@@ -331,7 +358,8 @@
             "B": "5 giá trị cốt lõi: Chính trực, Trí tuệ, Tận tâm, Thấu cảm, Thích ứng",
             "C": "3 triết lý hoạt động: Khách hàng là trung tâm, Phát triển con người\nĐổi mới sáng tạo",
             "D": "Sứ mệnh, Tầm nhìn",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "A"
     },
@@ -343,7 +371,8 @@
             "B": "Đúng",
             "C": "",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -355,7 +384,8 @@
             "B": "Sai",
             "C": "",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -367,7 +397,8 @@
             "B": "5",
             "C": "6",
             "D": "7",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -379,7 +410,8 @@
             "B": "thực hiện",
             "C": "vượt qua",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -391,7 +423,8 @@
             "B": "Thích ứng",
             "C": "Tận tâm",
             "D": "Thấu cảm",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -403,7 +436,8 @@
             "B": "Khách quan",
             "C": "Công bằng",
             "D": "Bình đẳng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -415,7 +449,8 @@
             "B": "Không gian văn hoá",
             "C": "Tư tưởng văn hoá",
             "D": "Con đường văn hoá",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -427,7 +462,8 @@
             "B": "Con người văn hoá",
             "C": "Tư tưởng văn hoá",
             "D": "Con đường văn hoá",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -439,7 +475,8 @@
             "B": "Thực hiện tốt trách nhiệm xã hội",
             "C": "Chủ động lắng nghe, đặt mình vào hoàn cảnh người khác",
             "D": "Không ngừng học hỏi",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -451,7 +488,8 @@
             "B": "biến đổi",
             "C": "biến động",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -463,7 +501,8 @@
             "B": "An toàn",
             "C": "Hiệu quả",
             "D": "Bền vững",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -475,7 +514,8 @@
             "B": "Linh hoạt cập nhật kế hoạch",
             "C": "Đánh giá kỹ lưỡng đầy đủ cơ hội, thách thức",
             "D": "Chủ động đón đầu xu thế",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -487,7 +527,8 @@
             "B": "đầy đủ",
             "C": "toàn bộ",
             "D": "nhất quán",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -499,7 +540,8 @@
             "B": "4",
             "C": "5",
             "D": "6",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -511,7 +553,8 @@
             "B": "Bắt đầu với người nào đứng gần mình nhất",
             "C": "Bắt đầu với người nào đưa danh thiếp cho mình",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -523,7 +566,8 @@
             "B": "Điện thoại là của cá nhân, nên không xâm phạm cuộc gọi cá nhân, để chuông reo đến khi ngừng và sẽ thông báo cho đồng nghiệp về cuộc gọi nhỡ khi gặp",
             "C": "Báo cáo lãnh đạo về việc đồng nghiệp không có mặt để lãnh đạo nghe điện thoại hoặc cho phép mình nghe điện thoại hộ đồng nghiệp",
             "D": "Nhấc điện thoại cho đỡ kêu rồi dập máy",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -535,7 +579,8 @@
             "B": "Gửi từ email chung của đơn vị, không gửi từ email cá nhân, đồng thời CC cho cán bộ phụ trách trực tiếp công việc; Các trường hợp cần trao đổi thông tin với cán bộ để làm rõ công việc xử lý thì có thể dùng email cá nhân để trao đổi)",
             "C": "Nhờ Giám đốc đơn vị gửi mail, đồng thời CC cho cán bộ phụ trách trực tiếp công việc",
             "D": "Gửi từ email nào cũng được, đảm bảo nội dung email có đầy đủ thông tin cán bộ, lãnh đạo đầu mối phụ trách công việc để có thể trao đổi khi cần",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -547,7 +592,8 @@
             "B": "Cần phản hồi đã nhận được email ngay lập tức cho người gửi được biết",
             "C": "Nên gửi phản hồi trong vòng 8 giờ dù đã có câu trả lời hay chưa cho vấn đề đã nêu trong thư",
             "D": "Khi nào xử lý được công việc trao đổi trong mail sẽ phản hồi ngay lập tức",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -559,7 +605,8 @@
             "B": "Chấp nhận vì luôn là như thế",
             "C": "Chủ động báo cáo cấp có thẩm quyền xử lý kịp thời khi phát sinh mâu thuẫn/ chậm trễ tiến độ công việc",
             "D": "Đổ lỗi cho khách quan  ngay khi có phát sinh vấn đề trong phối hợp",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -571,7 +618,8 @@
             "B": "Trước khi đề nghị phối hợp, xác định rõ mục tiêu, kế hoạch triển khai trước khi trao đổi với Đơn vị phối hợp",
             "C": "Chủ động theo dõi, thúc đẩy tiến độ giải quyết công việc giữa các bên liên quan",
             "D": "Khi được đề nghị phối hợp, tập trung lắng nghe đến hết nội dung trao đổi của đơn vị đề nghị phối hợp",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -583,7 +631,8 @@
             "B": "Ưu tiên các công việc chính của cá nhân mình, thực hiện các công việc được đề nghị phối hợp ở mức độ cầm chừng, đáp ứng tiến độ, không yêu cầu chất lượng cao",
             "C": "Khi trao đổi, làm rõ các nội dung đề nghị phối hợp: thể hiện rõ quan điểm những nội dung sẽ phối hợp ngay",
             "D": "Tuân thủ tiến độ công việc theo đề nghị của đơn vị đề nghị phối hợp ",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -595,7 +644,8 @@
             "B": "Thể hiện thái độ tươi cười, niềm nở để chào đón khách hàng",
             "C": "Tập trung, chú ý lắng nghe khách hàng nói",
             "D": "Liên tục cắt ngang lời khi khách hàng nói",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -607,7 +657,8 @@
             "B": "Đặt câu hỏi phù hợp để tìm hiểu, khai thác nhu cầu, mong muốn của Khách hàng",
             "C": "Chủ động tư vấn và cung cấp thông tin liên quan đến sản phẩm dịch vụ cho Khách hàng đầy đủ, dễ hiểu, nhất quán, đảm bảo Khách hàng hiểu rõ quyền lợi, tiện ích Sản phẩm dịch vụ",
             "D": "Tư vấn cho Khách hàng đầy đủ thông tin, nhanh chóng, chính xác",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -619,7 +670,8 @@
             "B": "Chủ động tư vấn và cung cấp thông tin liên quan đến sản phẩm dịch vụ cho khách hàng đầy đủ, dễ hiểu, nhất quán, đảm bảo khách hàng hiểu rõ quyền lợi, tiện ích sản phẩm dịch vụ",
             "C": "Chủ động thông báo cho khách hàng khi có các chính sách thay đổi về sản phẩm mà không chờ khách hàng yêu cầu",
             "D": "Tư vấn cho khách hàng khi chưa tìm hiểu kỹ, chi tiết, đầy đủ về sản phẩm dịch vụ.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -631,7 +683,8 @@
             "B": "Thể hiện thiện chí hợp tác với đối tác",
             "C": "Sẵn sàng chia sẻ kiến thức, kinh nghiệm chuyên môn với đối tác khi được đề nghị trên cơ sở tuân thủ các quy định bảo mật thông tin nội bộ VietinBank",
             "D": "Học hỏi những điểm mạnh của đối tác",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -643,7 +696,8 @@
             "B": "Tiết lộ thông tin mật của đối tác cho một bên thứ ba khi chưa được sự đồng ý, chấp thuận của đối tác",
             "C": "Chia sẻ thông tin sai lệch về hoạt động kinh doanh, sản phẩm/dịch vụ̣ của đối tác.",
             "D": "Chia sẻ thông tin về hoạt động kinh doanh, sản phẩm/dịch vụ̣ của đối tác cho bên thứ ba khi chưa được sự chấp thuận của đối tác",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -655,7 +709,8 @@
             "B": "Mời khách hàng cùng ăn kẹo, bánh, quà vặt trong lúc đến giao dịch",
             "C": "Đi lại nhẹ nhàng, không kéo lê giày/dép trên sàn gây tiếng động",
             "D": "Không đáp án nào đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -667,7 +722,8 @@
             "B": "Không giúp đỡ kể cả khi đồng nghiệp gặp khó khăn và chủ động đề nghị",
             "C": "Cởi mở tiếp nhận các góp ý của đồng nghiệp để sửa chữa và khắc phục các hành vi chưa đúng",
             "D": "Tập trung chú ý nghe hết những gì đồng nghiệp nói",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -679,7 +735,8 @@
             "B": "Hứa suông, hứa vượt quá khả năng, quyền hạn của bản thân với cấp dưới",
             "C": "Thực hiện đánh giá, xếp loại cấp dưới định kì vào cuối năm",
             "D": "Đưa ra nhận xét hoặc đưa ra hình phạt theo Quy định khi cấp dưới mắc lỗi. Giao việc theo trách nhiệm cho cấp dưới",
-            "E": "A và B"
+            "E": "A và B",
+            "F": ""
         },
         "correct": "E"
     },
@@ -691,7 +748,8 @@
             "B": "Trách móc, chỉ trích, miệt thị, mạt sát cá nhân thay vì công việc hoặc đưa ra hình phạt vô lý khi cấp dưới mắc lỗi. Đùn đẩy trách nhiệm hoặc đổ lỗi cho cấp dưới.\n",
             "C": "Bao dung với những sai lầm, lỗi không cố ý của cấp dưới trong quá trình thực hiện nhiệm vụ mới, nhiệm vụ thách thức; phân tích, chỉ rõ vấn đề cần rút kinh nghiệm cho cấp dưới",
             "D": "Bao dung với những sai lầm, lỗi không cố ý của cấp dưới trong quá trình thực hiện nhiệm vụ mới, nhiệm vụ thách thức; phân tích, chỉ rõ vấn đề cần rút kinh nghiệm cho cấp dưới ",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -703,7 +761,8 @@
             "B": "Chê bai, phán xét thành quả của các thế hệ đi trước tạo nên",
             "C": "Thể hiện lời nói, thái độ tôn trọng đối với cán bộ đã nghỉ hưu",
             "D": "Thể hiện thái độ thờ ơ, khó chịu, né tránh khi cán bộ đã nghỉ hưu đến VietinBank và có đề nghị giúp đỡ chính đáng",
-            "E": "B&D"
+            "E": "B&D",
+            "F": ""
         },
         "correct": "E"
     },
@@ -715,7 +774,8 @@
             "B": "Tụ tập cùng đồng nghiệp trong giờ ăn trưa để bàn tán, bình phẩm về chuyện của Tùng",
             "C": "Không quan tâm đến chuyện của Tùng, chỉ tập trung công việc của mình",
             "D": "Không có đáp án nào đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -727,7 +787,8 @@
             "B": "Tập trung lắng nghe và làm rõ yêu cầu cung cấp hồ sơ của đơn vị đầu mối; Xác nhận lại thông tin về thời gian, loại hồ sơ và lý do cần khai thác hồ sơ",
             "C": "Ưu tiên công việc hiện tại của cá nhân, công việc phối hợp rà soát hồ sơ sẽ làm nếu kịp thời gian",
             "D": "Xin lãnh đạo giao đồng nghiệp khác thực hiện công việc",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -739,7 +800,8 @@
             "B": "Chạy vội vàng vào thang máy với tiếng bước chân rất vang, rất to",
             "C": "Đi vội vàng vào thang máy, không để ý đến những người đang chờ thang hoặc đang từ trong thang đi ra",
             "D": "Không có đáp án nào đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -751,7 +813,8 @@
             "B": "Hỗ trợ thông tin cho Dũng vì đôi khi bạn cũng cần Dũng hỗ trợ tìm hiểu một số thông tin khách hàng ở Bank A",
             "C": "Không cung cấp số chính xác, chỉ thông tin chung chung qua điện thoại",
             "D": "Hỏi ý kiến của khách hàng trước khi cung cấp thông tin cho Dũng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -763,7 +826,8 @@
             "B": "Truyền đạt, nêu rõ định hướng của Ban lãnh đạo với khách hàng FDI này, trao đổi rõ các thông tin thu thập được về doanh  nghiệp, chủ doanh nghiệp",
             "C": "Gây áp lực và họp nhắc nhở cho cán bộ: nếu không đưa được khách hàng về giao dịch sẽ cắt thưởng và giảm lương quý tới",
             "D": "Đặt câu hỏi gợi ý nhân viên đưa ra các ý tưởng, phương án tiếp cận khách hàng; lắng nghe ý kiến của nhân viên và hỗ trợ, đồng hành cùng nhân viên triển khai hẹn gặp để trao đổi với Công ty FDI",
-            "E": "B&D"
+            "E": "B&D",
+            "F": ""
         },
         "correct": "E"
     },
@@ -775,7 +839,8 @@
             "B": "Sai",
             "C": "",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -787,7 +852,8 @@
             "B": "Dừng lại lắng nghe hết câu chuyện, sau đó về kể lại với cấp trên để tìm cách xử lý dập tan tin đồn",
             "C": "Lên tiếng đính chính, bảo vệ hình ảnh, uy tín của cấp trên và của đơn vị mình với các lập luận, bằng chứng đầy đủ đúng đắn",
             "D": "Ngay lập tức mắng người đang nói xấu và yêu cầu đám đông giải tán.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -799,7 +865,8 @@
             "B": "Tham gia góp ý kiến tích cực vào việc hoàn thiện cơ chế, chính sách liên quan đến hoạt động ngân hàng",
             "C": "Không có đáp án nào đúng",
             "D": "A và B",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -811,7 +878,8 @@
             "B": "Tôn trọng, lắng nghe, cầu thị tiếp thu ý kiến của các cơ quan; giải trình có cơ sở pháp lý và thực tiễn những vấn đề còn chưa thống nhất",
             "C": "Không đáp án nào đúng",
             "D": "A và B",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -823,7 +891,8 @@
             "B": "Vừa giải quyết công việc, vừa tham dự họp",
             "C": "Chủ tọa cuộc họp có thể ngắt lời người nói khi nhận thấy nội dung trao đổi, thảo luận không đúng trọng tâm hoặc ảnh hưởng đến khung giờ họp",
             "D": "Phát biểu ngắn gọn, đi thẳng vào vấn đề cần trình bày/trao đổi. Chỉ được phát biểu khi có sự đồng ý của chủ tọa, không nói chen ngang, cắt lời người khác",
-            "E": "A, C, D"
+            "E": "A, C, D",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -835,7 +904,8 @@
             "B": "Không làm việc riêng, tôn trọng người trình bày, phát biểu trong cuộc họp",
             "C": "Chú ý lắng nghe ý kiến của người khác trước khi trình bày ý kiến của mình",
             "D": "Điện thoại di động ở chế độ rung",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "E"
     },
@@ -847,7 +917,8 @@
             "B": "Không tụ tập thành nhóm, nói chuyện, cười đùa, ăn uống trước mặt khách hàng, đối tác hoặc tại khu vực giao dịch với khách hàng, đối tác",
             "C": "Không gác chân lên bàn/ghế hoặc nằm gục lên bàn làm việc khi có sự xuất hiện của khách hàng, đối tác",
             "D": "Không có những cử chỉ, điệu bộ phản cảm như: vênh mặt, lớn tiếng, huýt sáo, ném vứt tài liệu lên bàn làm việc hay phớt lờ khách hàng, đồng nghiệp, đối tác",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "E"
     },
@@ -859,7 +930,8 @@
             "B": "Nói chuyện phiếm cho cơ quan vui vẻ",
             "C": "Không có những cử chỉ, điệu bộ phản cảm như: vênh mặt, lớn tiếng, huýt sáo, ném vứt tài liệu lên bàn làm việc hay phớt lờ khách hàng",
             "D": "Không kéo lê giày/dép trên sàn gây tiếng động",
-            "E": "A, C, D"
+            "E": "A, C, D",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -871,7 +943,8 @@
             "B": "Chủ động chào hỏi lái xe và các khách đi xe khi lên, xuống xe",
             "C": "Trao đổi, nói chuyện nhẹ nhàng, lịch sự cùng đồng nghiệp",
             "D": "Tất cả các đáp án đều đúng",
-            "E": "B và C"
+            "E": "B và C",
+            "F": ""
         },
         "correct": "E"
     },
@@ -883,7 +956,8 @@
             "B": "Ưu tiên khách hàng, đối tác, người lớn tuổi, trẻ em",
             "C": "Nếu đứng gần bảng điều khiển thang máy, hỏi một cách lịch sự (dùng kính ngữ) và bấm tầng cần đến cho người đi cùng",
             "D": "Không có đáp án nào đúng",
-            "E": "A,B,C"
+            "E": "A,B,C",
+            "F": ""
         },
         "correct": "E"
     },
@@ -895,7 +969,8 @@
             "B": "Khi người được chào đang bận việc hoặc đang giao tiếp với người khác, chào thật to để thu hút sự chú ý",
             "C": "Chủ động chào hỏi người đối diện trước theo xưng hô vai vế (anh/chị/cô/chú…) và kính ngữ",
             "D": "Đứng với tư thế đĩnh đạc, lưng thẳng, hướng mắt nhìn người đối diện, mỉm cười thân thiện và cúi đầu nhẹ nhàng khi chào",
-            "E": "Khi người được chào đang bận việc hoặc đang giao tiếp với người khác, mỉm cười hoặc gật đầu thể hiện sự nhận biết đối tượng\n"
+            "E": "Khi người được chào đang bận việc hoặc đang giao tiếp với người khác, mỉm cười hoặc gật đầu thể hiện sự nhận biết đối tượng\n",
+            "F": "C,D,E"
         },
         "correct": "F"
     },
@@ -907,7 +982,8 @@
             "B": "Dùng một tay (thường là tay phải để bắt); khi bắt tay, mắt nhìn thẳng mặt người đối diện để thể hiện sự tôn trọng, thân thiện, giữ lưng thẳng, siết nhẹ bàn tay thể hiện sự nồng ấm, thân thiện, không bắt tay quá lỏng lẻo hoặc quá chặt",
             "C": "Bắt tay lần lượt từng người theo thứ tự đến trước, đến sau, người cao tuổi hơn, người có chức vụ cao hơn",
             "D": "Nếu đối tác có vị trí cao hơn mình, anh/chị sẽ là người chìa tay ra trước để bắt tay đối tác",
-            "E": "B&C"
+            "E": "B&C",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -919,7 +995,8 @@
             "B": "Thể hiện thiện chí hợp tác với đối tác",
             "C": "Sẵn sàng chia sẻ kiến thức, kinh nghiệm chuyên môn với đối tác khi được đề nghị trên cơ sở tuân thủ các quy định bảo mật thông tin nội bộ VietinBank",
             "D": "Học hỏi những điểm mạnh của đối tác",
-            "E": "Tiết lộ thông tin mật của đối tác cho một bên thứ ba khi chưa được sự đồng ý, chấp thuận của đối tác"
+            "E": "Tiết lộ thông tin mật của đối tác cho một bên thứ ba khi chưa được sự đồng ý, chấp thuận của đối tác",
+            "F": "A, E"
         },
         "correct": "F"
     },
@@ -931,7 +1008,8 @@
             "B": "Phát biểu khi có sự đồng ý của chủ tọa, không chen ngang, không cắt lời người khác",
             "C": "Để điện thoại di động ở chế độ rung",
             "D": "Tất cả các đáp án đều đúng",
-            "E": "B&C"
+            "E": "B&C",
+            "F": ""
         },
         "correct": "E"
     },
@@ -943,7 +1021,8 @@
             "B": "Chủ động, kịp thời liên hệ với Đại diện truyền thông chính thức của VietinBank đề xuất đính chính xác minh khi phát hiện thông tin tiêu cực, bất lợi, sai lệch về VietinBank trên các phương tiện truyền thông (báo chí/mạng xã hội….)",
             "C": "Tuân thủ Quy chế phát ngôn và cung cấp thông tin cho báo chí của VietinBank",
             "D": "Tích cực, kịp thời phối hợp xử lý khủng hoảng thông tin có liên quan đến các đơn vị",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "E"
     },
@@ -955,7 +1034,8 @@
             "B": "Từ chối hoặc né tránh tham gia các hoạt động an sinh xã hội, hoạt động thiện nguyện của Nhà nước, của VietinBank, của địa phương mà không có lý do chính đáng",
             "C": "Chấp hành nghiêm chỉnh các quy định, nề nếp của địa phương nơi cán bộ NLĐ sinh sống",
             "D": "A và C",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "D"
     },
@@ -967,7 +1047,8 @@
             "B": "Nhận xét, đánh giá đồng nghiệp trên tinh thần khách quan, xây dựng, không áp đặt suy nghĩ, quan điểm, lợi ích cá nhân",
             "C": "Cảm ơn kèm theo lời hứa sẽ cân nhắc ý kiến, góp ý phê bình của đồng nghiệp",
             "D": "Thường xuyên, liên tục hỏi thăm và đề nghị giúp đỡ đồng nghiệp trong mọi trường hợp",
-            "E": "A,B,C"
+            "E": "A,B,C",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -979,7 +1060,8 @@
             "B": "Không chấp nhận góp ý của đồng nghiệp; tự phụ, tỏ ra mình biết tất cả",
             "C": "Tụ tập hội, nhóm nói xấu, nói không đúng sự thật, bình phẩm về công việc, cuộc sống riêng tư của đồng nghiệp",
             "D": "Tập trung chú ý lắng nghe đồng nghiệp nói, ghi nhận ý kiến, làm rõ nội dung đồng nghiệp muốn nói\n",
-            "E": "A,B,C"
+            "E": "A,B,C",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -991,7 +1073,8 @@
             "B": "Hứa suông, hứa vượt quá khả năng, quyền hạn của bản thân với cấp dưới",
             "C": "Thực hiện đánh giá, xếp loại cấp dưới định kì vào cuối năm",
             "D": "Đưa ra nhận xét hoặc đưa ra hình phạt theo Quy định khi cấp dưới mắc lỗi. Giao việc theo trách nhiệm cho cấp dưới",
-            "E": "A và B"
+            "E": "A và B",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -1003,7 +1086,8 @@
             "B": "Chủ động xin ý kiến cấp trên và thúc đẩy tiến độ công việc khi cần thiết",
             "C": "Chủ động bày tỏ quan điểm, sáng kiến cải tiến công việc với cấp trên",
             "D": "Tiếp thu ý kiến đóng góp, phê bình của cấp trên với thái độ cầu thị, tích cực kèm theo lời hứa sẽ sửa đổi thiếu sót, sai sót, sơ xuất, khuyết điểm, hạn chế",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "E"
     },
@@ -1015,7 +1099,8 @@
             "B": "Thể hiện lời nói, thái độ tôn trọng đối với cán bộ đã nghỉ hưu",
             "C": "Né tránh khi cán bộ đã nghỉ hưu đến VietinBank và có đề nghị giúp đỡ chính đáng.",
             "D": "Tạo điều kiện cho người thân, hoặc con cháu của các cán bộ đi trước vào làm việc tại VietinBank",
-            "E": "A và B"
+            "E": "A và B",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -1027,7 +1112,8 @@
             "B": "Chê bai, phán xét thành quả của các thế hệ đi trước tạo nên",
             "C": "Thể hiện lời nói, thái độ tôn trọng đối với cán bộ đã nghỉ hưu",
             "D": "Thể hiện thái độ thờ ơ, khó chịu, né tránh khi cán bộ đã nghỉ hưu đến VietinBank và có đề nghị giúp đỡ chính đáng",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": "B và D"
         },
         "correct": "F"
     },
@@ -1039,7 +1125,8 @@
             "B": "Tuân thủ các tiêu chí đánh giá, ghi nhận cấp dưới rõ ràng, minh bạch. Chủ động trao đổi, phản hồi với cấp dưới về các quyết định đánh giá, ghi nhận",
             "C": "Ngó lơ, không phản hồi hoặc giải quyết các ý kiến đề xuất của cấp dưới về các vấn đề thuộc trách nhiệm, quyền hạn, phạm vi công việc, phạm vi đơn vị của bản thân phụ trách",
             "D": "Cấm đoán hoặc cản trở cấp dưới tham gia các hoạt động phát triển cá nhân hoặc thực hiện quyền, lợi ích chính đáng, hợp pháp của người lao động",
-            "E": "A và B"
+            "E": "A và B",
+            "F": ""
         },
         "correct": "E"
     },
@@ -1051,7 +1138,8 @@
             "B": "Chủ động xin ý kiến cấp trên khi cần thiết hoặc trong các tình huống có nguy cơ rủi ro và thúc đẩy tiến độ công việc",
             "C": "Bình phẩm, phán xét, a dua theo người khác nói xấu hoặc nói không đúng sự thật về cấp trên",
             "D": "Thể hiện hành động, lời nói, thái độ coi thường với cấp trên",
-            "E": "A,C,D"
+            "E": "A,C,D",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -1063,7 +1151,8 @@
             "B": "Thoái thác, đùn đẩy trách nhiệm cho đơn vị khác",
             "C": "Chủ động theo dõi, thúc đẩy tiến độ giải quyết công việc giữa các bên liên quan",
             "D": "Yêu cầu cung cấp hồ sơ, tài liệu một cách vô lý, gây cản trở quá trình phối hợp ",
-            "E": "A và D"
+            "E": "A và D",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -1075,7 +1164,8 @@
             "B": "Truyền đạt, nêu rõ định hướng của Ban lãnh đạo với khách hàng FDI này, trao đổi rõ các thông tin thu thập được về doanh  nghiệp, chủ doanh nghiệp",
             "C": "Gây áp lực và họp nhắc nhở cho cán bộ: nếu không đưa được khách hàng về giao dịch sẽ cắt thưởng và giảm lương quý tới",
             "D": "Đặt câu hỏi gợi ý nhân viên đưa ra các ý tưởng, phương án tiếp cận khách hàng; lắng nghe ý kiến của nhân viên và hỗ trợ, đồng hành cùng nhân viên triển khai hẹn gặp để trao đổi với Công ty FDI",
-            "E": "B và D"
+            "E": "B và D",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -1087,7 +1177,8 @@
             "B": "Bỏ qua vì đây là lỗi vô tình",
             "C": "Chỉ trích, phê bình gay gắt cán bộ mới",
             "D": "Hướng dẫn cán bộ mới tìm hiểu sản phẩm dịch vụ VietinBank",
-            "E": "Trao đổi với cán bộ về phương án khắc phục với khách hàng"
+            "E": "Trao đổi với cán bộ về phương án khắc phục với khách hàng",
+            "F": "A,D,E"
         },
         "correct": "F"
     },
@@ -1099,7 +1190,8 @@
             "B": "Báo cáo Trưởng phòng A về vấn đề và đề xuất giải pháp giải quyết dứt điểm tình trạng này",
             "C": "Báo cáo Trưởng phòng B về vấn đề và đề xuất giải pháp giải quyết dứt điểm tình trạng này",
             "D": "Đợi đến cuộc họp tiếp theo để bàn bạc về vấn đề",
-            "E": "Tiếp tục thực hiện những công việc bạn cho là thuộc nhiệm vụ của phòng mình và không thông báo cho các bên liên quan"
+            "E": "Tiếp tục thực hiện những công việc bạn cho là thuộc nhiệm vụ của phòng mình và không thông báo cho các bên liên quan",
+            "F": "Tiếp tục trao đổi với đầu mối phòng B cho đến khi giải quyết được vấn đề"
         },
         "correct": "B"
     },
@@ -1111,7 +1203,8 @@
             "B": "Ngày 8/7/1988",
             "C": "Ngày 7/8/1998",
             "D": "Ngày 26/3/1988",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1123,7 +1216,8 @@
             "B": "Vụ Tín dụng các ngành kinh tế và Vụ Tín dụng Công nghiệp",
             "C": "Cục Phát hành kho quỹ và Vụ Tín dụng thương nghiệp",
             "D": "Cục Phát hành kho quỹ và Vụ Tín dụng thương nghiệp ",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1135,7 +1229,8 @@
             "B": "Số 36 Phan Đình Phùng, Hà Nội",
             "C": "Số 16 Phan Đình Phùng, Hà Nội",
             "D": "Số 61 Phan Đình Phùng, Hà Nội",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1147,7 +1242,8 @@
             "B": "Năm 2008",
             "C": "Năm 2018",
             "D": "Năm 2016",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1159,7 +1255,8 @@
             "B": "Ngày 16/07/2009",
             "C": "Ngày 26/03/1988",
             "D": "Ngày 08/07/2009",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1171,7 +1268,8 @@
             "B": "Vietnam joint stock commercial bank for trade",
             "C": "Vietnam joint stock commercial bank for industry and trade",
             "D": "Vietnam commercial bank for industry and trade",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1183,7 +1281,8 @@
             "B": "Tp.Hồ Chí Minh, Đà Nẵng, Yangon",
             "C": "Tp.Hồ Chí Minh, Đà Nẵng, Cần Thơ",
             "D": "Tp.Hồ Chí Minh, Đà Nẵng, Frankfurt",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1195,7 +1294,8 @@
             "B": "Tháng 2/2017",
             "C": "Tháng 3/2017",
             "D": "Tháng 4/2017",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1207,7 +1307,8 @@
             "B": "Ngày 19 tháng 8 năm 2023",
             "C": "Ngày 08 tháng 7 năm 2023",
             "D": "Ngày 29 tháng 8 năm 2023",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1219,7 +1320,8 @@
             "B": "100 sáng kiến",
             "C": "128 sáng kiến",
             "D": "188 sáng kiến",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1231,7 +1333,8 @@
             "B": "Âm thầm làm phần việc của họ và cố gắng hoàn thành cùng với phần việc của mình.",
             "C": "Không làm gì cả, vì đó không phải là trách nhiệm của bạn.",
             "D": "Báo cáo với lãnh đạo trực tiếp về việc đồng nghiệp chậm deadline",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1243,7 +1346,8 @@
             "B": "Báo cáo tình trạng của đồng nghiệp cho cấp trên để tìm giải pháp.",
             "C": "Bỏ qua vì bạn nghĩ rằng đó là vấn đề cá nhân của đồng nghiệp",
             "D": "Tán gẫu với các đồng nghiệp khác về vấn đề này của người bạn đồng nghiệp",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1255,7 +1359,8 @@
             "B": "Bỏ qua vì đây là lỗi vô tình",
             "C": "Chỉ trích, phê bình gay gắt cán bộ mới",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1267,7 +1372,8 @@
             "B": "Đợi đến cuộc họp tiếp theo để bàn bạc về vấn đề",
             "C": "Tiếp tục thực hiện những công việc bạn cho là thuộc nhiệm vụ của phòng mình và không thông báo cho các bên liên quan",
             "D": "Tiếp tục trao đổi với đầu mối phòng B cho đến khi giải quyết được vấn đề",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1279,7 +1385,8 @@
             "B": "Năm 2014",
             "C": "Năm 2016",
             "D": "Năm 2018",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1291,7 +1398,8 @@
             "B": "ISO 9000:2015",
             "C": "ISO 9001:2017",
             "D": "ISO 9001:2015",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1303,7 +1411,8 @@
             "B": "Khát vọng tầm cao mới",
             "C": "Sống một đời có lãi",
             "D": "PROJECT X01",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1315,7 +1424,8 @@
             "B": "Thể hiện quyết tâm chuyển đổi thông qua Ngôn ngữ Digital “01",
             "C": "Thể hiện mục tiêu hướng tới vị trí số 1 trong ngành ngân hàng Việt Nam của VietinBank",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1327,7 +1437,8 @@
             "B": "Hiểu biết (Knowledgable)",
             "C": "Tận tâm (Supportive)",
             "D": "Tất cả các đáp án trên",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1339,7 +1450,8 @@
             "B": "Huân chương Độc lập hạng Nhất",
             "C": "Huân chương Lao động hạng Nhất",
             "D": "Tất cả các đáp án trên",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1351,7 +1463,8 @@
             "B": "X - Experience: Đem lại trải nghiệm hoàn hảo cho khách hàng và cán bộ nhân viên",
             "C": "X - Transformation: Linh hoạt và thích ứng chuyển đổi",
             "D": "X - Dự án bí ẩn số 1",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": "A, B và C"
         },
         "correct": "F"
     },
@@ -1363,7 +1476,8 @@
             "B": "Dự án Chuyển đổi hệ thống Corebanking Sunshine",
             "C": "Dự án Khung năng lực",
             "D": "Dự án Chuyển đổi số",
-            "E": "A,B và D"
+            "E": "A,B và D",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "E"
     },
@@ -1375,7 +1489,8 @@
             "B": "Hệ thống Quản lý tập trung hồ sơ khách hàng - Customer Profile Management tại lĩnh vực: Ngân hàng số",
             "C": "Dịch vụ ngân hàng số dành cho khách hàng doanh nghiệp - VietinBank eFAST tại lĩnh vực: Các nền tảng chuyển đổi số",
             "D": "Tất cả các đáp án trên",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1387,7 +1502,8 @@
             "B": "Phát triển con người",
             "C": "Đổi mới sáng tạo",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1399,7 +1515,8 @@
             "B": "Tổng động viên các đơn vị và cá nhân chủ chốt cùng tham gia xây dựng VHDN",
             "C": "Là cơ sở để quản lý, đánh giá hiệu quả thực thi và tạo động lực để các đơn vị phát triển, lan tỏa các giá trị văn hóa tại VietinBank",
             "D": "Giúp cho CBNV thấm nhuần các giá trị VHDN VietinBank",
-            "E": "Tất cả các đáp án"
+            "E": "Tất cả các đáp án",
+            "F": ""
         },
         "correct": "A,B,C"
     },
@@ -1411,7 +1528,8 @@
             "B": "2",
             "C": "3",
             "D": "4",
-            "E": "5"
+            "E": "5",
+            "F": ""
         },
         "correct": "E"
     },
@@ -1423,7 +1541,8 @@
             "B": "Khách hàng",
             "C": "Con người",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1435,7 +1554,8 @@
             "B": "Phát triển con người, Đổi mới sáng tạo, Chính trực",
             "C": "Phát triển con người, Đổi mới sáng tạo, Thích ứng",
             "D": "Khách hàng là trung tâm, Phát triển con người, Đổi mới sáng tạo",
-            "E": "Chính trực, tận tậm, thích ứng"
+            "E": "Chính trực, tận tậm, thích ứng",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1447,7 +1567,8 @@
             "B": "Thực thi Văn hóa doanh nghiệp VietinBank mỗi ngày theo hệ giá trị cốt lõi và các Văn bản chính sách quy định, hướng dẫn của VietinBank.",
             "C": "Thực hiện các nhiệm vụ được giao trên cơ sở vận dụng đầy đủ các triết lý hoạt động của VietinBank trong mỗi mục tiêu công việc. ",
             "D": "Cả 3 phương án trên",
-            "E": "Không có đáp án nào đúng"
+            "E": "Không có đáp án nào đúng",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1459,7 +1580,8 @@
             "B": "Thấu cảm",
             "C": "Tận tâm",
             "D": "Thích ứng",
-            "E": "Không có câu nào đúng"
+            "E": "Không có câu nào đúng",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1471,7 +1593,8 @@
             "B": "Luôn có phương án dự phòng\n",
             "C": "Cải tiến liên tục để nâng cao hiệu quả hoạt động\n",
             "D": "Tất cả đều đúng\n",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1483,7 +1606,8 @@
             "B": "Trí tuệ",
             "C": "Tận tâm",
             "D": "Thấu cảm",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1495,7 +1619,8 @@
             "B": "Ngân hàng đa năng, hiện đại, hiệu quả hàng đầu tại Việt Nam, đến năm 2030 thuộc Top ngân hàng mạnh nhất khu vực Châu Á- Thái Bình Dương. Đến năm 2045 là ngân hàng mạnh nhất và uy tín nhất Việt Nam, hàng đầu Khu vực Châu Á- Thái Bình Dương và uy tín cao trên thế giới",
             "C": "Ngân hàng đa năng, hiện đại, hiệu quả hàng đầu tại Việt Nam, đến năm 2030 thuộc Top10 ngân hàng mạnh nhất khu vực Châu Á- Thái Bình Dương. Đến năm 2045 là ngân hàng mạnh nhất và uy tín nhất Việt Nam, hàng đầu Khu vực Châu Á- Thái Bình Dương và uy tín cao trên thế giới",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1507,7 +1632,8 @@
             "B": "Chủ động và sẵn sàng nhận nhiệm vụ khó khi được giao.",
             "C": "Thẳng thắn, mềm mỏng trong xử lý bất đồng với đồng nghiệp",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1519,7 +1645,8 @@
             "B": "khách hàng, cổ đông, người lao động, đối tác và cộng đồng.",
             "C": "cổ đông, người lao động, khách hàng, đối tác và cộng đồng.",
             "D": "khách hàng, đối tác cổ đông, người lao động và cộng đồng.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1531,7 +1658,8 @@
             "B": "Bạn hỏi trên hệ thống SAM để được hỗ trợ nhé.",
             "C": "Phòng mình không phụ trách mảng công việc này. Hướng dẫn Chi nhánh tìm thông tin người liên hệ thường ghi rõ trong các văn bản (thường ở mục người soạn thảo văn bản, hoặc phần cuối văn bản sẽ hướng dẫn đầu mối liên hệ).\nTrường hợp văn bản không ghi rõ, mình sẽ hỗ trợ Chi nhánh hỏi giúp các phòng ban liên quan khác tại TSC để tìm đầu mối có đủ khả năng hỗ trợ Chi nhánh.",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1543,7 +1671,8 @@
             "B": "Hành vi chị H thể hiện giá trị cốt lõi Thích ứng",
             "C": "Hành vi chị H thể hiện giá trị cốt lõi Trí Tuệ",
             "D": "Hành vi chị H thể hiện giá trị cốt lõi Tận Tâm",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1555,7 +1684,8 @@
             "B": "Trí tuệ",
             "C": "Tận tâm",
             "D": "Thấu cảm",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "B, D"
     },
@@ -1567,7 +1697,8 @@
             "B": "Hạt nhân văn hóa",
             "C": "Giám Đốc Chi nhánh",
             "D": "Tổng Giám đốc",
-            "E": "Chủ tịch HĐQT"
+            "E": "Chủ tịch HĐQT",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1579,7 +1710,8 @@
             "B": "Trí tuệ",
             "C": "Tận tâm",
             "D": "Thấu cảm",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1591,7 +1723,8 @@
             "B": "Hiệu quả",
             "C": "Bền Vững",
             "D": "An toàn - Hiệu quả - Bền vững",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1603,7 +1736,8 @@
             "B": "2045",
             "C": "2030",
             "D": "2035",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1615,7 +1749,8 @@
             "B": "Trí tuệ, thấu cảm, thích ứng",
             "C": "Chính trực, thấu cảm, tận tâm, thích ứng",
             "D": "Chính trực, trí tuệ, thấu cẩm, tận tâm",
-            "E": "Chính trực, trí tuệ, thấu cảm, tận tâm, thích ứng"
+            "E": "Chính trực, trí tuệ, thấu cảm, tận tâm, thích ứng",
+            "F": ""
         },
         "correct": "E"
     },
@@ -1627,7 +1762,8 @@
             "B": "Công khai – Minh bạch – Khách quan – Bao quát – Công bằng – Bình đẳng",
             "C": "Công khai – Minh bạch – Công tâm – Toàn diện – Công bằng – Bình đẳng",
             "D": "Công khai – Minh bạch – Công tâm – Bao quát – Công bằng – Bình đẳng",
-            "E": "Công khai – Minh bạch – Công tâm – Bao quát – Chính trực – Bình đẳng"
+            "E": "Công khai – Minh bạch – Công tâm – Bao quát – Chính trực – Bình đẳng",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1639,7 +1775,8 @@
             "B": "Ngân hàng đa năng, hiện đại, hiệu quả hàng đầu tại Việt Nam, đến năm 2030 thuộc Top ngân hàng mạnh nhất Khu vực Châu Á- Thái Bình Dương.",
             "C": "Ngân hàng đa năng, hiện đại, hiệu quả hàng đầu tại Việt Nam, đến năm 2030 thuộc Top 10 ngân hàng mạnh nhất Khu vực Châu Á- Thái Bình Dương.",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1651,7 +1788,8 @@
             "B": "Khách hàng là trung tâm\n",
             "C": "Đổi mới và sáng tạo\n",
             "D": "A, B & C\n",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1663,7 +1801,8 @@
             "B": "Vượt khó trong mọi bối cảnh để chinh phục những mục tiêu thách thức",
             "C": "Linh hoạt cập nhật kế hoạch, điều chỉnh giải pháp phù hợp",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1675,7 +1814,8 @@
             "B": "Trí tuệ",
             "C": "Tận tâm",
             "D": "Thấu cảm",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "C,D"
     },
@@ -1687,7 +1827,8 @@
             "B": "Trí tuệ",
             "C": "Tận tâm",
             "D": "Thấu cảm",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "B,C,E"
     },
@@ -1699,7 +1840,8 @@
             "B": "An toàn – Hiệu quả - Bền vững",
             "C": "An toàn – Hiệu quả - Dài hạn",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1711,7 +1853,8 @@
             "B": "Trí tuệ",
             "C": "Tận tâm",
             "D": "Thấu cảm",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "B,C"
     },
@@ -1723,7 +1866,8 @@
             "B": "Phát triển con người",
             "C": "Đổi mới sáng tạo",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1735,7 +1879,8 @@
             "B": "Thấu cảm\n",
             "C": "Tận Tâm\n",
             "D": "A & B  \n",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1747,7 +1892,8 @@
             "B": "Thích ứng",
             "C": "Chính Trực",
             "D": "Minh bạch",
-            "E": "Thẳng thắn"
+            "E": "Thẳng thắn",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1759,7 +1905,8 @@
             "B": "Triết lý hoạt động ",
             "C": "Cả 2 phương án trên ",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1771,7 +1918,8 @@
             "B": "Từ chối hoặc né tránh tham gia các hoạt động an sinh xã hội, hoạt động thiện nguyện của Nhà nước, của VietinBank, của địa phương mà không có lý do chính đáng;",
             "C": " Thiếu ý thức, trách nhiệm bảo vệ môi trường (vứt rác bừa bãi; nói tục, nói bậy, nói chuyện ồn ào tại nơi công cộng, tại công sở hoặc vi phạm quy tắc ứng xử trên mạng xã hội của VietinBank....);",
             "D": " Phân biệt đối xử (chê bai, chế giễu, miệt thị…) hoặc từ chối giúp đỡ các trường hợp yếu thế trong xã hội.",
-            "E": "Tất cả các đáp án trên"
+            "E": "Tất cả các đáp án trên",
+            "F": ""
         },
         "correct": "E"
     },
@@ -1783,7 +1931,8 @@
             "B": "Giải quyết vấn đề trên cơ sở hài hòa lợi ích giữa các bên và không xung đột lợi ích với VietinBank.",
             "C": "\tTuyệt đối không chia sẻ quan điểm, không bày tỏ chính kiến hay góp ý để tránh ảnh hưởng mối quan hệ đồng nghiệp.",
             "D": "\tTôn trọng, đặt mình vào vị trí, hoàn cảnh của người khác để hiểu được nhu cầu, mong muốn của đối tượng giao tiếp.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1795,7 +1944,8 @@
             "B": "Báo Chi nhánh tiếp tục liên hệ phòng A cho tới khi có câu trả lời",
             "C": "Báo Chi nhánh thông cảm chờ và chủ động liên hệ phòng A để trao đổi, làm rõ/thống nhất nội dung trả lời, Sau đó nếu vẫn thuộc phạm vi trả lời phòng A, báo phòng A hỗ trợ Chi nhánh và thông tin lại cho Chi nhánh đã hỗ trợ trao đổi.",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1807,7 +1957,8 @@
             "B": "Vi phạm nguyên tắc ứng xử với đồng nghiệp",
             "C": "GDV làm đúng theo quy định về mua bán ngoại tệ",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1819,7 +1970,8 @@
             "B": "Yêu cầu Hà phải tự nghiên cứu, không tiếp tục hỏi nữa",
             "C": "Phê bình Hà trong cuộc họp vì không tích cực học hỏi, nghiên cứu",
             "D": "Nói xấu Hà với đồng nghiệp khác trong phòng ",
-            "E": "Gặp Lãnh đạo phòng xin đổi cho người khác hướng dẫn Hà"
+            "E": "Gặp Lãnh đạo phòng xin đổi cho người khác hướng dẫn Hà",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1831,7 +1983,8 @@
             "B": "Chủ động giúp đỡ các trường hợp yếu thể trong xã hội (người nghèo, người khuyết tật, người dân tộc thiểu số, người nghèo, trẻ nhỏ…)",
             "C": "Tham gia góp ý kiến tích cực vào việc hoàn thiện cơ chế, chính sách liên quan đến hoạt động ngân hàng",
             "D": "Nói chuyện ồn ào tại nơi công cộng",
-            "E": "Chấp hành nghiêm chỉnh quy định các quy định, nề nếp của địa phương nơi CBNV sinh sống"
+            "E": "Chấp hành nghiêm chỉnh quy định các quy định, nề nếp của địa phương nơi CBNV sinh sống",
+            "F": ""
         },
         "correct": "A,B,E"
     },
@@ -1843,7 +1996,8 @@
             "B": "Tư vấn cho khách hàng khi chưa tìm hiểu kỹ, chi tiết, đầy đủ về SPDV, chưa rõ cách thức/nơi xử lý phát sinh dỗi với SPDV.",
             "C": "Thực hiện các giao dịch, tư vấn cho khách hàng nhanh chóng, chính xác.",
             "D": "Bảo vệ, bảo mật thông tin, tài sản khách hàng (ngoại trừ trường hợp có yêu cầu của cơ quan/tổ chức/cá nhân có thẩm quyền theo quy định của Pháp luật).",
-            "E": "Cắt ngang lời khi khách hàng nói. Tranh luận với khách hàng hoặc đổ lỗi do các nguyên nhân khách quan khi khách hàng phàn nàn về SPDV."
+            "E": "Cắt ngang lời khi khách hàng nói. Tranh luận với khách hàng hoặc đổ lỗi do các nguyên nhân khách quan khi khách hàng phàn nàn về SPDV.",
+            "F": ""
         },
         "correct": "A,C,D"
     },
@@ -1855,7 +2009,8 @@
             "B": "Cùng đồng nghiệp bàn tán, bình phẩm về chuyện của A",
             "C": "Không quan tâm đến chuyện của A",
             "D": "Không đáp án nào đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -1867,7 +2022,8 @@
             "B": "Sai",
             "C": "",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1879,7 +2035,8 @@
             "B": "Thể hiện sự quan tâm, chú ý lắng nghe khách hàng. Đặt câu hỏi phù hợp hoặc khai thác các kênh thông tin để tìm hiểu nhu cầu, mong muốn của khách hàng",
             "C": "Thực hiện các giao dịch, tư vấn cho khách hàng nhanh chóng, chính xác",
             "D": "Sử dụng từ ngữ, ngôn ngữ khiến khách hàng khó chịu như: “không thể”, “không được”, “không biết”, “KH sai”…",
-            "E": "Sử dụng kính ngữ và ngôn ngữ dễ hiểu khi giao tiếp với khách hàng"
+            "E": "Sử dụng kính ngữ và ngôn ngữ dễ hiểu khi giao tiếp với khách hàng",
+            "F": ""
         },
         "correct": "A,D"
     },
@@ -1891,7 +2048,8 @@
             "B": "Giới thiệu người đi cùng trước, tự giới thiệu sau",
             "C": "Giới thiệu người có địa vị cao trước, địa vị thấp sau",
             "D": "Trường hợp cần phải cho đối tác biết trách nhiệm của mình, giới thiệu chức vụ hiện đang đảm nhiệm hoặc vai trò được ủy nhiệm để làm việc với đối tác",
-            "E": "Tất cả các đáp án trên đều đúng"
+            "E": "Tất cả các đáp án trên đều đúng",
+            "F": ""
         },
         "correct": "E"
     },
@@ -1903,7 +2061,8 @@
             "B": "Tỏ thái độ khó chịu vì cho rằng vì sự điều hành yếu kém của Giám đốc cũ mà chi nhánh rơi vào hoàn cảnh khó khăn như ngày hôm nay",
             "C": "Tỏ thái độ tôn trọng với Cán bộ đã nghỉ hưu",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1915,7 +2074,8 @@
             "B": "Sử dụng ngôn ngữ lịch sự, trang trọng, phù hợp văn hóa của quốc gia đối tác khi trả lời đối tác",
             "C": "\tBáo cáo xin ý kiến lãnh đạo đối với những thông tin quan trọng, cần xin ý kiến chỉ đạo",
             "D": "Tất cả các đáp án trên",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1927,7 +2087,8 @@
             "B": "Cảm ơn, Ghi nhận góp ý và kèm theo lời hứa sẽ xem xét góp ý",
             "C": "Im lặng không nói gì, không cần phản hồi cho qua chuyện",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1939,7 +2100,8 @@
             "B": "Không xả rác bừa bãi trên xe hoặc vứt ra ngoài xe",
             "C": "Trên xe: không cười, nói to gây ồn ào",
             "D": "Không có đáp án nào đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A,B,C"
     },
@@ -1951,7 +2113,8 @@
             "B": "Báo cáo lãnh đạo Phòng về hành vi vi phạm của đồng nghiệp ",
             "C": "Cố ý bao che, phớt lờ hành vi vi phạm đó vì không muốn mất lòng đồng nghiệp",
             "D": "Câu A và B đều đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -1963,7 +2126,8 @@
             "B": "Không lắng nghe hết ý kiến, tham mưu đề xuất của cấp dưới. Phản biện lại và đề nghị cấp dưới làm theo phương án của mình",
             "C": "Hỗ trợ, đồng hành cùng cấp dưới giải quyết khó khăn, vướng mắc trong quá trình thực hiện nhiệm vụ;",
             "D": "Phán xét, đánh giá cấp dưới khi chưa có đầy đủ thông tin chính thức hoặc dựa trên quan điểm, định kiến cá nhân, không có cơ sở khách quan",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1975,7 +2139,8 @@
             "B": "\tMọi lời nói, thái độ đều thể hiện sự tôn trọng với KH Y.",
             "C": "\tKhó chịu, khuyên KH Y ra ATM rút tiền để GDV X đỡ phải hạch toán.",
             "D": "Trong lúc giao dịch với KH Y, chê bai các thành quả của thế hệ đi trước tạo dựng.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -1987,7 +2152,8 @@
             "B": "Cán bộ làm đúng vì các cán bộ RM phải tự chủ động thực hiện công việc được giao, không được nhờ.",
             "C": "Cán bộ chưa có hành vi phù hợp với Chuẩn mực hành vi trong giao tiếp ứng xử với đồng nghiệp",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -1999,7 +2165,8 @@
             "B": "Trí tuệ",
             "C": "Tận tâm",
             "D": "Thấu cảm",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "C,E"
     },
@@ -2011,7 +2178,8 @@
             "B": "Trí tuệ",
             "C": "Tận tâm",
             "D": "Thấu cảm ",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "B,C"
     },
@@ -2023,7 +2191,8 @@
             "B": "Thể hiện sự quan tâm, lắng nghe nhu cầu của khách hàng và chủ động đặt câu hỏi để tìm hiểu mong muốn của khách hàng khi lựa chọn VietinBank là nơi gửi tiền.",
             "C": "Cắt ngang lời khách hàng và yêu cầu khách hàng đến ngân hàng khác để gửi tiền.",
             "D": "Ngó lơ, không trả lời khách hàng và bấm số chuyển đến khách hàng kế tiếp.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -2035,7 +2204,8 @@
             "B": "Từ chối hợp tác với cơ quan truyền thông một cách khiếm nhã.",
             "C": "Tôn trọng và hợp tác với cơ quan truyền thông khi được yêu cầu trong phạm vi quyền hạn và trách nhiệm cá nhân theo quy định VietinBank.",
             "D": "Không kịp thời ứng phó với các sự cố rủi ro ngay cả khi các đơn vị gặp sự cố đã báo cáo.",
-            "E": "Chủ động, kịp thời liên hệ với Đại diện truyền thông chính thức của VietinBank đề xuất đính chính, xác minh khi phát hiện thông tin tiêu cực, bất lợi, sai lệch về VietinBank trên các phương tiện truyền thông (báo chí/mạng xã hội...)."
+            "E": "Chủ động, kịp thời liên hệ với Đại diện truyền thông chính thức của VietinBank đề xuất đính chính, xác minh khi phát hiện thông tin tiêu cực, bất lợi, sai lệch về VietinBank trên các phương tiện truyền thông (báo chí/mạng xã hội...).",
+            "F": ""
         },
         "correct": "B;D"
     },
@@ -2047,7 +2217,8 @@
             "B": "Đồng ý cung cấp thông tin ngay cho A Hoàng và dặn anh Hoàng không được tiết lộ là mình cung cấp vì nể tình a là CB NH nhà nước và là anh họ của mình.",
             "C": "Cung cấp thông tin một cách chung chung, không nói cụ thể số tiền, chỉ nói có tiền về hoặc không.",
             "D": "Gọi cho KH ( B) để xin ý kiến KH trước khi cung cấp thông tin.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -2059,7 +2230,8 @@
             "B": "Trí tuệ",
             "C": "tận tâm",
             "D": "thấu cảm",
-            "E": "Thích ứng"
+            "E": "Thích ứng",
+            "F": ""
         },
         "correct": "E"
     },
@@ -2071,7 +2243,8 @@
             "B": "Trao danh thiếp cho Giám đốc công ty X trước, trao danh thiếp cho Giám đốc công ty Y sau",
             "C": "Chào hỏi cả 2 phía đối tác, tự giới thiệu bản thân, sau đó Trao danh thiếp cho Giám Đốc công ty X và Giàm đốc Y trước, sau đó trao danh thiếp cho Kế toán công ty X và Kế toán công ty Y",
             "D": "Chỉ cần trao danh thiếp cho 2 kế toán ",
-            "E": "Chỉ cần trao danh thiếp cho 2 Giám đốc"
+            "E": "Chỉ cần trao danh thiếp cho 2 Giám đốc",
+            "F": ""
         },
         "correct": "C"
     },
@@ -2083,7 +2256,8 @@
             "B": "Hành vi bạn B không đúng chuẩn mực ứng xử cấp dưới với cấp trên",
             "C": "Hành vi bạn B không đúng chuẩn mực ứng xử cấp trên với cấp dưới",
             "D": "Hành vi bạn B không đúng chuẩn mực ứng xử với đồng nghiệp",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -2095,7 +2269,8 @@
             "B": "Giữ yên lặng, tuy nhiên lắc đầu bày tỏ thái độ không đồng tình",
             "C": "Tiếp tục lắng nghe, ghi lại ý kiến, sau khi đồng nghiệp phát biểu, được sự cho phép của chủ tọa sẽ bày tỏ ý kiến của bản thân",
             "D": "Bàn tán với những người xung quanh về vấn đề này",
-            "E": "Không đáp án nào đúng"
+            "E": "Không đáp án nào đúng",
+            "F": ""
         },
         "correct": "C"
     },
@@ -2107,7 +2282,8 @@
             "B": "Chê cười nhân viên Phòng giao dịch vì không nắm vững nghiệp vụ nhận biết tiền thật giả",
             "C": "Sẵn sàng hỗ trợ cho GDV tại Phòng giao dịch Y cách nhận biết tiền ngoại tệ thật giả để hạn chế rủi ro và nâng cao hình ảnh chất lượng dịch vụ của Trung tâm đối với Phòng giao dịch",
             "D": "Đáp án B và C đều đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -2119,7 +2295,8 @@
             "B": "Ngó lơ, không phản hồi hoặc không giải quyết ý kiến đề xuất của cán bộ",
             "C": "Chê bai ý tưởng vì cho rằng chương trình mới là không phù hợp và thiếu khả thi",
             "D": "Tạo điều kiện, cơ hội cho cán bộ phát huy khả năng và thực hiện thành công ý tưởng đó.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A;D"
     },
@@ -2131,7 +2308,8 @@
             "B": "Giải quyết vấn đề trên cơ sở hài hòa lợi ích giữa các bên và không xung đột lợi ích VietinBank",
             "C": "Cởi mở chia sẻ quan điểm, bày tỏ chính kiến, góp ý trên tinh thần xây dựng",
             "D": "A,C",
-            "E": "A,B,C"
+            "E": "A,B,C",
+            "F": ""
         },
         "correct": "E"
     },
@@ -2143,7 +2321,8 @@
             "B": "\tKhông cần chào hỏi B dù B đã nhìn thấy A.",
             "C": "Mỉm cười hoặc gật đầu với B thể hiện A đã thấy B, không làm ảnh hưởng tới việc trao đổi công việc của B.",
             "D": "\tKhông đáp án nào đúng.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -2155,7 +2334,8 @@
             "B": "Sai",
             "C": "",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -2167,7 +2347,8 @@
             "B": "Đổ lỗi cho NHCT thay đổi quy định",
             "C": "Báo cáo tình huống với cán bộ quản lý. Cố gắng giữ lời hứa với khách hàng. Trong trường hợp không đáp ứng được yêu cầu khách hàng, nói lời xin lỗi và giải tích lý do hợp lý, có tính thuyết phục cao với khách hàng, đề xuất ngay giải pháp xử lý hợp lý nhất bảo vệ quyền lợi khách hàng.",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -2179,7 +2360,8 @@
             "B": "Cấu kết, ép buộc, mua chuộc thông tin của đối tác với mục đích cạnh tranh không lành mạnh",
             "C": "Tiết lộ thông tin mật của đối tác cho một bên thứ ba khi chưa được sự đồng ý, chấp thuận của đối tác",
             "D": "Thể hiện thái độ phân biệt đối xử giữa các đối tác",
-            "E": "Tất cả các đáp án trên "
+            "E": "Tất cả các đáp án trên ",
+            "F": ""
         },
         "correct": "E"
     },
@@ -2191,7 +2373,8 @@
             "B": "Khuếch trương danh tiếng VietinBank, cam kết những thứ vượt kỳ vọng của khách hàng",
             "C": "Truyền tải thông tin trung thực về VietinBank, quảng cáo những sản phẩm ưu điểm, vượt trội, có tính năng cạnh tranh cao trên thị trường",
             "D": "Không có đáp án nào đúng",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -2203,7 +2386,8 @@
             "B": "Sẵn sàng chia sẻ kiến thức, kinh nghiệm chuyên môn với đối tác khi được đề nghị trên cơ sở tuân thủ các quy định thông tin nội bộ của VietinBank",
             "C": "\tTiết lộ thông tin chia sẻ của đối tác cho một bên thứ ba khi chưa được sự đồng ý, chấp thuận của đối tác\n",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A,B"
     },
@@ -2215,7 +2399,8 @@
             "B": "Ứng xử với cấp dưới",
             "C": "Ứng xử với cấp trên ",
             "D": "Ứng xử giữa các đơn vị, cá nhân trong quá trình phối hợp.",
-            "E": "Không có đáp án đúng"
+            "E": "Không có đáp án đúng",
+            "F": ""
         },
         "correct": "C,D"
     },
@@ -2227,7 +2412,8 @@
             "B": "Đánh giá các kết quả B đạt được trong thời gian qua là do yếu tố may mắn chứ không phải do năng lực nhưng không nêu dẫn chứng cụ thể",
             "C": "Không dám nhận xét gì vì sợ sẽ làm phật lòng B",
             "D": "Nhận xét, đánh giá B một cách khách quan, trên tinh thần xây dựng, không áp đặt quan điểm, lợi ích cá nhân",
-            "E": "Chỉ đánh giá những mặt ưu điểm của B vì Bố của B là người có chức vụ cao ở Tỉnh"
+            "E": "Chỉ đánh giá những mặt ưu điểm của B vì Bố của B là người có chức vụ cao ở Tỉnh",
+            "F": ""
         },
         "correct": "D"
     },
@@ -2239,7 +2425,8 @@
             "B": "Thờ ơ, thông báo do anh chị tất toán trước hạn tài khoản nên Vietinbank chỉ trả lãi suất không kỳ hạn theo quy định\n",
             "C": "Thông báo khách hàng cần đến chi nhánh quản lý tài khoản để được hỗ trợ. Tổng đài VietinBank chỉ hướng dẫn sử dụng dịch vụ trước khi mở tài khoản tiết kiệm.\n",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -2251,7 +2438,8 @@
             "B": "Chủ động thông báo với lái xe để chủ động sắp xếp lịch trình",
             "C": "Không cần thông báo nếu thời gian muộn dưới 60 phút",
             "D": "Chủ động thông báo với lái xe và các bên liên quan để nắm thông tin và chủ động sáp xếp công việc",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -2263,7 +2451,8 @@
             "B": "Liên hệ với Bộ phận hỗ trợ/Thư ký để trình bày thời hạn và đề nghị sự hỗ trợ. Nếu cần gấp, bạn báo cáo Lãnh đạo phòng để Lãnh đạo Phòng báo cáo Ban lãnh đạo giúp bạn.",
             "C": "Không liên hệ gì và chờ đợi tiếp",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -2275,7 +2464,8 @@
             "B": "Gọi điện sang yêu cầu CB QHKH bán lẻ xem lại hồ sơ và trình lại cho KH đó vay",
             "C": "Nói chuyện với CB QHKH lý do KH đó không vay vốn được và giải thích lại cho KH hiểu",
             "D": "Không làm gì đi nói với các phòng khác CB QHKH bán lẻ đó không làm được việc",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "C"
     },
@@ -2287,7 +2477,8 @@
             "B": "Điện thoại viên tiếp nhận khai thác mong muốn, nhu cầu của khách hàng, lựa chọn sản phẩm tiền gửi tiết kiệm tại quầy, online mang lại lợi ích tối đa cho VietinBank để tư vấn cho khách hàng\n",
             "C": "Điện thoại viên tiếp nhận hướng dẫn khách hàng liên hệ với chi nhánh quản lý tài khoản để được tư vấn vì chi nhánh mới có chỉ tiêu huy động tiền gửi và quy định lãi suất cho khách hàng.\n",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     },
@@ -2299,7 +2490,8 @@
             "B": "Thấu cảm",
             "C": "Trí tuệ",
             "D": "Phương án A và B",
-            "E": "Phương án B và C"
+            "E": "Phương án B và C",
+            "F": ""
         },
         "correct": "D"
     },
@@ -2311,7 +2503,8 @@
             "B": "Thử tìm hiểu về công nghệ đó và đề xuất cải tiến lên bộ phận phụ trách sản phẩm của NHCT.",
             "C": "Tìm ra điểm mạnh của Sản phẩm hiện tại để chào bán tới khách hàng, giữ chân khách hàng.",
             "D": "Đáp án B và C",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -2323,7 +2516,8 @@
             "B": "Khách hàng không có ý kiến gì thì cán bộ có thể làm như vậy.",
             "C": "Luôn ưu tiên cho công việc cá nhân trước công việc của tổ chức.",
             "D": "Hành vi này vi phạm chuẩn mực hành vi trong các nghi thức cơ bản khi làm việc.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -2335,7 +2529,8 @@
             "B": ".\tPhản hồi nhanh chóng khi đối tác yêu cầu cung cấp thông tin bổ sung để hiểu rõ yêu cầu",
             "C": "Nghiên cứu kỹ nội dung chia sẻ của đối tác trước khi tham dự họp với đối tác (nếu tổ chức họp)",
             "D": "\tTham gia đầy đủ, nghiêm túc cuộc trao đổi với đối tác liên quan đến nội dung yêu cầu hỗ trợ kỹ thuật",
-            "E": "Lưu ý tuân thủ quy định bảo mật thông tin"
+            "E": "Lưu ý tuân thủ quy định bảo mật thông tin",
+            "F": "Tất cả các đáp án trên"
         },
         "correct": "F"
     },
@@ -2347,7 +2542,8 @@
             "B": "Anh X sẽ mắng và chỉ trích các đồng nghiệp khác về việc không chịu phối hợp làm việc",
             "C": "Anh X trao đổi riêng với bạn Y cũng như các đồng nghiệp khác để tìm hiểu nguyên nhân, sau đó có các biện pháp để hỗ trợ, đồng hành cùng bạn Y trong việc giao tiếp, phối hợp xử lý công việc với đồng nghiệp. ",
             "D": "Anh X mặc kệ miễn là hiệu quả công việc vẫn đạt",
-            "E": "Anh X giao việc theo nhóm để thúc đấy sự phối hợp giữa các đồng nghiệp với nhau"
+            "E": "Anh X giao việc theo nhóm để thúc đấy sự phối hợp giữa các đồng nghiệp với nhau",
+            "F": ""
         },
         "correct": "C,E"
     },
@@ -2359,7 +2555,8 @@
             "B": "Điện thoại viên tiếp nhận cuộc gọi chủ động gọi xin lỗi khách hàng về trải nhiệm dịch vụ không tốt tại VietinBank. Thông báo đến khách hàng sẽ ghi nhận thông tin khách hàng cung cấp, phối hợp với chi nhánh VietinBank để xử lý vấn đề Khách hàng cung cấp và sẽ  thông tin lại kết quả xử lý cho khách hàng. Đồng thời ngay sau cuộc gọi, điện thoại viên tạo email/contact đầy đủ thông tin nội dung Khách hàng phản ánh về chi nhánh liên quan để phối hợp.\n",
             "C": "Điện thoại viên tiếp nhận cuộc gọi chủ động gọi xin lỗi khách hàng về trải nhiệm dịch vụ không tốt tại VietinBank. Cung cấp số điện thoại  lãnh đạo của chi nhánh VietinBank liên quan để khách hàng có thể phản ánh trực tiếp khiếu nại phàn nàn.\n",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "B"
     },
@@ -2371,7 +2568,8 @@
             "B": "Mặc kệ Khách hàng chửi bới, nói xấu đến khi nào KH nói xong thì tư vấn cho KH dịch vụ của VietinBank",
             "C": "Từ chối tiếp nhận khách hàng vì những khách hàng như thế sau này sẽ rất khó làm việc",
             "D": "Rót cốc nước mát mời Khách hàng cho dịu bớt, sau đó hỏi về những vấn đề bức xúc của KH và có thể giải thích một số vấn đề mình am hiểu để KH bớt bức xúc. Từ đó sẽ lựa để tư vấn những sản phẩm dịch vụ ưu việt của VietinBank so với bên Ngân hàng Y và hướng dẫn thủ tục vay vốn cho KH.",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "D"
     },
@@ -2383,7 +2581,8 @@
             "B": "Thấu cảm",
             "C": "Trí tuệ",
             "D": "A,B",
-            "E": "B,C"
+            "E": "B,C",
+            "F": "A,B,C"
         },
         "correct": "F"
     },
@@ -2395,7 +2594,8 @@
             "B": "Sai",
             "C": "",
             "D": "",
-            "E": ""
+            "E": "",
+            "F": ""
         },
         "correct": "A"
     }
